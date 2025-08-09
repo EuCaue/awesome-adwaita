@@ -22,6 +22,7 @@ List of awesome apps, extensions, modules, themes and tools of the Adwaita desig
 - [DNOME](https://github.com/GeopJr/DNOME) - Adwaita-inspired Discord Theme
 - [Obsidian Adwaita Theme](https://github.com/birneee/obsidian-adwaita-theme) - Obsidian theme in the style of Gnome Adwaita
 - [Thunderbird GNOME theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - A GNOME theme for Thunderbird
+- [Adwaita for Joplin](https://github.com/ivfrost/joplin-adwaita-theme) - GNOME Adwaita theme for Joplin
 
 ## Icon Themes
 
